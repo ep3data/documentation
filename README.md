@@ -1,4 +1,4 @@
-# GeoNode Documentation
+# EP3 Documentation
 
 ## How to write Documentation
 
